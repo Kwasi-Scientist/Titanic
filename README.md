@@ -1,0 +1,1 @@
+The following is an analysis of the Kaggle Titanic Dataset Contest where the K Nearest Neighbors, and Logistic Regression algorithms were implemented from scratch and compared to the "canned" SciKitLearn functions. https://www.kaggle.com/c/titanic/overview
